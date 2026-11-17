@@ -48,6 +48,8 @@ main.c's declaration order (`sfxData` 0x5800 bytes from `0x80050478` ends where 
 
 | upstream | port |
 |---|---|
+| `heapList` | `heap::kControlA` |
+| `unusedHeap` | `heap::kControlB` |
 | `vs_main_titleScreenCount` | `titleScreenCount` |
 | `vs_main_startState` | `titleStartState` |
 | `disk` | `vs_main_disk` |
