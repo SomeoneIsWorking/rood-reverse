@@ -1,0 +1,3 @@
+// Names found by the Vagrant Story port (github.com/SomeoneIsWorking/psx-vagrant-story), splat syntax.
+// Not read by the build: a placeholder named here is still func_/D_ in src until renamed there.
+initBtlPublicationCall = 0x800FA69C; // label

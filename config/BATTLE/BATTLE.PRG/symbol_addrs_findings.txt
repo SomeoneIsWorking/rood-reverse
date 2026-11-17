@@ -1,0 +1,24 @@
+// Names found by the Vagrant Story port (github.com/SomeoneIsWorking/psx-vagrant-story), splat syntax.
+// Not read by the build: a placeholder named here is still func_/D_ in src until renamed there.
+drawTail = 0x80069D78;
+battleViewportPublication = 0x800760CC;
+present = 0x8007629C;
+locationTransition = 0x8007C694;
+battleNearClipSetter = 0x8007CCCC;
+battlePublicationCall = 0x8008A288; // label
+battleDynamicOtSubmit = 0x8008A3A0;
+backdrop = 0x8008EC48;
+rainPass = 0x8008F440;
+textureAnimation = 0x80091B04;
+quadReject = 0x80098014;
+battleNearClipConsumer = 0x80098160;
+skyDome = 0x8009820C;
+modelPass = 0x800AEF94;
+rootTransform = 0x800B07DC;
+followCameraSwitch = 0x800BBE04;
+frozen = 0x800F1BA4;
+fall = 0x800F1D98;
+dropCount = 0x800F1DC0;
+flatFill = 0x800F1DC6;
+drops = 0x800F1DD4;
+followCamera = 0x800F4BA0;

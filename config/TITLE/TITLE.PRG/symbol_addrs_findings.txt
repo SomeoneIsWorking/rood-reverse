@@ -1,0 +1,16 @@
+// Names found by the Vagrant Story port (github.com/SomeoneIsWorking/psx-vagrant-story), splat syntax.
+// Not read by the build: a placeholder named here is still func_/D_ in src until renamed there.
+vs_title_exec_loopTop = 0x800713AC; // label
+filenameTemplatePointer = 0x8007288C;
+eventSpecs = 0x80072894;
+publisherData = 0x80072F0C;
+developerData = 0x8007472C;
+titleMemcardInitState = 0x800DC8C4;
+eventDescriptors = 0x800DEA98;
+spmcimgPointer = 0x800DEAB8;
+mcdataPointer = 0x800DEABC;
+textTablePointer = 0x800DEAC0;
+directoryEntryPointer = 0x800DEB04;
+saveFileInfoPointer = 0x800DEB08;
+introMoviePlaying = 0x800DED7C;
+titleDataBase = 0x800E0000;
