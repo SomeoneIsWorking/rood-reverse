@@ -16,6 +16,7 @@ skyDome = 0x8009820C;
 modelPass = 0x800AEF94;
 rootTransform = 0x800B07DC;
 followCameraSwitch = 0x800BBE04;
+gims = 0x800EB9BC; // upstream 5BF94.c name; Gim[3], stride 0x3F8: u16 flags (bit0 visible, bits6-8 loadState), +3 brightness, +0xE background colour
 frozen = 0x800F1BA4;
 fall = 0x800F1D98;
 dropCount = 0x800F1DC0;
