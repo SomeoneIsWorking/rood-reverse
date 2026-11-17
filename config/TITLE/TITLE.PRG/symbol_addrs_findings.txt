@@ -1,6 +1,7 @@
 // Names found by the Vagrant Story port (github.com/SomeoneIsWorking/psx-vagrant-story), splat syntax.
 // Not read by the build: a placeholder named here is still func_/D_ in src until renamed there.
 vs_title_exec_loopTop = 0x800713AC; // label
+setTitleExitFlags = 0x80071CE0; // upstream 22C.c name
 filenameTemplatePointer = 0x8007288C;
 eventSpecs = 0x80072894;
 publisherData = 0x80072F0C;

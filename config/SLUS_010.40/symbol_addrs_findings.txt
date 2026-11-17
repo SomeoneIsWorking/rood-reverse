@@ -52,6 +52,7 @@ soundControl4 = 0x8005FE80;
 soundControl5 = 0x8005FE84;
 vs_main_settings = 0x80060020; // upstream main.c name
 mainStateFlag = 0x80060068;
+vs_main_spawnPoint = 0x80061068; // upstream main.c name
 vs_main_gametime = 0x80061074; // upstream main.c name
 vs_main_stateFlags = 0x80061598; // upstream main.c name
 vs_main_inventoryIndices = 0x800619D8; // upstream main.c name
